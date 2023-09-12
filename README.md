@@ -20,7 +20,7 @@ Welcome to the IPL Data Analysis Dashboard repository! This project leverages th
 
 ## How to Use
 
-1. **Access the Dashboard**: Click on the [Dashboard Link](https://example.com/dashboard) to access the interactive IPL Data Analysis Dashboard.
+1. **Access the Dashboard**: Download the IPL_2008_2022.pbix file and open that file in your desktop. Make sure you have Power Bi Desktop installed in your system. 
 
 2. **Filter Data**: Use the dashboard's interactive features to filter data by your preferred criteria, including team, season, and more.
 
